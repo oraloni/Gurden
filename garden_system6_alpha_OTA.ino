@@ -14,8 +14,8 @@
 
 // network credentials
 #ifndef STASSID
-#define STASSID "aloni"
-#define STAPSK  "0524663051"
+#define STASSID "******"
+#define STAPSK  ***********"
 #endif
 
 #define relay 4
